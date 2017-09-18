@@ -27,6 +27,7 @@ Preparation
 Meeting                     | Meeting Date | Presentation Date | Students
 -------                     | :----------: | :---------------: | --------
 Boulder Haskell Programmers | 9/6          |                   | Kevin Shields, Bilinda Butcher
+Denver Library              | TBA          |                   | Taylor Rumbaugh, Brandon Green, Jordan King
 
 You can find more info on how to format tables in Github-flavored Markdown
 [here](https://help.github.com/articles/organizing-information-with-tables/).
@@ -55,4 +56,4 @@ Schedule
 Meeting                          | Meeting Date | Presentation Date | Students
 -------                          | :----------: | :---------------: | --------
 Boulder Data science Study Group | 9/3          |                   | Daniel Renkert, Austin Phillips
-Denver Public Library            | Monday (TBA) |                   | Taylor Rumbaugh, Brandon Green, Jordan King
+Denver Public Library            | 9/25         |                   | Taylor Rumbaugh, Brandon Green, Jordan King
