@@ -55,4 +55,4 @@ Schedule
 Meeting                          | Meeting Date | Presentation Date | Students
 -------                          | :----------: | :---------------: | --------
 Boulder Data science Study Group | 9/3          |                   | Daniel Renkert, Austin Phillips
-Denver Public Library            | Monday (TBA) |                   | Taylor Rumbaugh, Brandon Green, Jordan King
+Denver Public Library            | 9/25         |                   | Taylor Rumbaugh, Brandon Green, Jordan King
